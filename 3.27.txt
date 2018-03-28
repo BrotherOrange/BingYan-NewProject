@@ -1,0 +1,14 @@
+Today I learn something about C language.
+In a way, it can be a lot of things.
+And I have some ideas about the game.
+I want give it a name.
+The name is "The Lost City".
+It is a game about running away from an old city.
+The player is the No.1 actor in this game.
+And some npc will help you and give you some information at the right time.
+And every command you input, you can get a request.
+You should let these sentences to guide youself.
+However, All of these are all still in a frame.
+The time has passed a half.
+I realize that what I have learnt is still too little to support me to finish the game.
+But I will still try.
